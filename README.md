@@ -13,9 +13,6 @@ When a user enters his Pin Code, the portal looks up the actual location of the 
 
 Right now, India is in process of running a country-wide vaccination drive for immunity against the Coronavirus. Therefore, the main inspiration behind making this portal came from the idea of making basic information regarding vaccine availability around the common people available to them as easily as possible and trying to make this vaccination drive even more effective than it already is.
 
-## How we built this 
-qoom.io
-
 ## Accomplishments that we are proud of 
 I believe that this project has the potential to have a huge impact on the Indian society towards its goal of making India immune to the Coronavirus.
 
