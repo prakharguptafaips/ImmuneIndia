@@ -1,6 +1,7 @@
 Immune India
 ==================
-Project link: https://prakhar.qoom.space/immuneindia/index.html
+Download the App: https://tinyurl.com/ImmuneIndia
+Website: https://prakhar.qoom.space/immuneindia/index.html
 ## What this project does
 This is an online COVID-19 Vaccination Healthcare portal named “Immune India.” It allows easy access of people in India to COVID-19 vaccination centers around them using just their postal Pin Code.
 
@@ -13,10 +14,4 @@ When a user enters his Pin Code, the portal looks up the actual location of the 
 
 Right now, India is in process of running a country-wide vaccination drive for immunity against the Coronavirus. Therefore, the main inspiration behind making this portal came from the idea of making basic information regarding vaccine availability around the common people available to them as easily as possible and trying to make this vaccination drive even more effective than it already is.
 
-## Accomplishments that we are proud of 
 I believe that this project has the potential to have a huge impact on the Indian society towards its goal of making India immune to the Coronavirus.
-
-## What is next for this project
-It can potentially be developed into a dedicated mobile app in order to make it even more accessible to the gerenal public.
-
-Moreover, I am also working towards making the interface for the list and details of the centers a bit more appealing to the user.
