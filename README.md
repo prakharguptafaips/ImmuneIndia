@@ -3,7 +3,7 @@ Immune India
 Download the App: https://tinyurl.com/ImmuneIndia
 
 Website: https://prakhar.qoom.space/immuneindia/index.html
-## What this project does
+
 This is an online COVID-19 Vaccination Healthcare portal named “Immune India.” It allows easy access of people in India to COVID-19 vaccination centers around them using just their postal Pin Code.
 
 All that the users have to do is to enter their area’s pin code and the current date in the specified format and hit the “View Vaccination Centers” button. This will take them to a page that will provide them with detailed information about various vaccination centers around them, along with many other details regarding the available dates and time slots, minimum age limit, name of the vaccine, and the available capacity of that vaccine, all in a fraction of a second. As a result, the user will be able to make a quick and clear selection of a vaccination center, date, and time slot for getting vaccinated according to his convenience, eligibility, and the availability of vaccine. 
